@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Building on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/</link>
+    <description>Recent content in Building on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build-Systeme: Apache Ant</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/ant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/ant/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+    <item>
+      <title>Build-Systeme: Apache Maven</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/maven/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+    <item>
+      <title>Build-Systeme: Gradle</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/gradle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/gradle/</guid>
+      <description>Automatisieren von Arbeitsabläufen Works on my machine ...
+ Einen häufigen Ausspruch, den man bei der Zusammenarbeit in Teams zu hören bekommt, ist &amp;quot;Also, bei mir läuft der Code.&amp;quot; ...
+Das Problem dabei ist, dass jeder Entwickler eine andere Maschine hat, oft ein anderes Betriebssystem oder eine andere OS-Version. Dazu kommen noch eine andere IDE und/oder andere Einstellungen und so weiter.
+Wie bekommt man es hin, dass Code zuverlässig auch auf anderen Rechnern baut?</description>
+    </item>
+    <item>
+      <title>Continuous Integration (CI)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/ci/</guid>
+      <description>Motivation: Zusammenarbeit in Teams Szenario  Projekt besteht aus diversen Teilprojekten Verschiedene Entwicklungs-Teams arbeiten (getrennt) an verschiedenen Projekten Tester entwickeln Testsuiten für die Teilprojekte Tester entwickeln Testsuiten für das Gesamtprojekt  Manuelle Ausführung der Testsuiten reicht nicht  Belastet den Entwicklungsprozess Keine (einheitliche) Veröffentlichung der Ergebnisse Keine (einheitliche) Eskalation bei Fehlern Keine regelmäßige Integration in Gesamtprojekt  Continuous Integration  Regelmäßige, automatische Ausführung: Build und Tests Reporting Weiterführung der Idee: Regelmäßiges Deployment (Continuous Deployment)  Continuous Integration (CI)  Vorgehen  Entwickler und Tester committen ihre Änderungen regelmäßig (Git, SVN, .</description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/building/docker/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+  </channel>
+</rss>

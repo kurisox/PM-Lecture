@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pool Konzept on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/</link>
+    <description>Recent content in Pool Konzept on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blatt 01: Git (Basics, Branches, Remotes)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet01/</guid>
+      <description>Abgabe: Die Lösung für dieses Blatt ist als Zip-Archiv (.zip) im Objekt &amp;quot;Praktikum&amp;quot; im ILIAS hochzuladen. Beachten Sie die Deadline (vgl. Fahrplan)!
+Git Basics (4 Punkte)    Legen Sie ein Repository an. Fügen Sie Dateien dem Verzeichnis hinzu und stellen Sie einige davon unter Versionskontrolle. Ändern Sie eine Datei und versionieren Sie die Änderung. Was ist der Unterschied zwischen &amp;quot;git add .; git commit&amp;quot; und &amp;quot;git commit -a&amp;quot;? Wie finden Sie heraus, welche Dateien geändert wurden?</description>
+    </item>
+    <item>
+      <title>Blatt 02: Logging, Factory-Method</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet02/</guid>
+      <description>Logging (6 Punkte)   Betrachten Sie den Ringpuffer in der Vorgabe (inkl. JUnit-Tests und einem Main-Programm).
+Fügen Sie in diese drei Artefakte Logging auf der Basis von java.util.logging ein, so dass es keine Ausgaben mit System.out.println oder System.err.println mehr gibt und dass an allen interessanten Stellen passende Informationen ausgegeben werden und sich so der Ablauf des Programms und der Zustand des Ringpuffers über die Logs nachvollziehen lässt.
+  Schreiben Sie einen Formatter, welcher die Meldungen in folgendem Format auf der Konsole ausgibt.</description>
+    </item>
+    <item>
+      <title>Blatt 03: Generics, Strategy-Pattern</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet03/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 04: JUnit, Gradle</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet04/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 05: Mocking, Smells, Refactoring</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet05/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 06: Serialisierung, Observer, FlyWeight, Type Object</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet06/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 07: Annotationen, Reflection, Template-Method-Pattern, Swing</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet07/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 08: Funktionsinterfaces, Lambdas, Methodenreferenzen, RegExp</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet08/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 09: Stream-API, Optional, Visitor-Pattern, Command-Pattern</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet09/</guid>
+      <description>XXX </description>
+    </item>
+    <item>
+      <title>Blatt 10: Threads, Enumeration</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/assignments/pool_concept/sheet10/</guid>
+      <description>XXX </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on </title>
+    <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/</link>
+    <description>Recent content in Coding on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logging</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/logging/</guid>
+      <description>Wie prüfen Sie die Werte von Variablen/Objekten?   Debugging
+ Beeinflusst Code nicht Kann schnell komplex und umständlich werden Sitzung transient -- nicht wiederholbar    &amp;quot;Poor-man&#39;s-debugging&amp;quot; (Ausgaben mit System.out.println)
+ Müssen irgendwann entfernt werden Ausgabe nur auf einem Kanal (Konsole) Keine Filterung nach Problemgrad -- keine Unterscheidung zwischen Warnungen, einfachen Informationen, ...    Logging
+ Verschiedene (Java-) Frameworks: java.util.logging (JDK), log4j (Apache), SLF4J, Logback, ...    Java Logging API -- Überblick Paket java.</description>
+    </item>
+    <item>
+      <title>Debugging</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/debugging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/debugging/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+    <item>
+      <title>Javadoc</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/javadoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/javadoc/</guid>
+      <description>Dokumentation mit Javadoc /** * Beschreibung Beschreibung (Summary). * * &amp;lt;p&amp;gt;Hier kommt dann ein laengerer Text, der die Dinge * bei Bedarf etwas ausfuehrlicher erklaert. */ public void wuppie() {} Javadoc-Kommentare sind (aus Java-Sicht) normale Block-Kommentare, wobei der Beginn mit /** eingeleitet wird. Dieser Beginn ist für das Tool javadoc (Bestandteil des JDK, genau wie java und javac) das Signal, dass hier ein Kommentar anfängt, den das Tool in eine HTML-Dokumentation übersetzen soll.</description>
+    </item>
+    <item>
+      <title>Bad Smells und Coding Conventions</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/smells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/smells/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+    <item>
+      <title>Refactoring</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/refactoring/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+    <item>
+      <title>Testdriven Development (TDD)</title>
+      <link>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/tdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fh-bielefeld.de/elearning/data/FH-Bielefeld/lm_data/lm_1271733/coding/tdd/</guid>
+      <description>Motivation Lorem Ipsum. Starte mit H2-Level. ...
+Folie 2 ...
+Folie 3 ...
+Folie 4 ...
+Folie 5 ...
+Folie 6 ...
+Wrap-Up ...</description>
+    </item>
+  </channel>
+</rss>
